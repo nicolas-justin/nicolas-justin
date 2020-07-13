@@ -1,0 +1,53 @@
+<p align="right">
+  <a
+    href="https://github.com/nicolas-justin/nicolas-justin/blob/master/README.md"
+    title="See in Portuguese"
+  >
+    Ver em Inglês 🇺🇸
+  </a>
+</p>
+
+## Olá 👋
+
+**Bem-vindo(a) ao meu perfil do GitHub :octocat:**
+
+Meu nome é Nícolas Justin 🙂, trabalho como desenvolvedor _Front-end_ desde 2017.
+Atualmente, estou trabalhando como desenvolvedor _Full-stack_ 💻 na
+[PLING](https://github.com/plingbr).
+
+Sou outro apaixonado ❤️ pelo ecossistema **JavaScript**,
+amante 😍 de **UX/UI** e áreas relacionadas.
+
+No meu **tempo livre**, eu costumo:
+
+- 📚 Ler livros
+- 📺 Assistir séries
+- 📼 Assistir filmes
+- 🎹 Tocar teclado
+- 🎵 Escutar músicas
+- 🎨 Desenhar e pintar
+- ✍️ Escrever no meu Blog
+- 🎧 Escutar podcasts
+
+Você também pode me encontrar nas seguintes **redes sociais**:
+
+[![Meu blog][url-myblog]](https://nicolasjustin.dev)
+[![Twitter][url-twitter]](https://twitter.com/onicolasjustin)
+[![Telegram][url-telegram]](https://t.me/nicolasjustin)
+[![LinkedIn][url-linkedin]](https://linkedin.com/in/nicolas-justin)
+
+---
+
+<p align="center">Construído com ❤️ e muito ☕️ por Nícolas Justin</p>
+
+<!-- LinkedIn -->
+[url-linkedin]: https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=nicolas-justin&color=007ec6
+
+<!-- Telegram -->
+[url-telegram]: https://img.shields.io/static/v1?logo=telegram&label=Telegram&message=@nicolasjustin&color=007ec6
+
+<!-- Twitter -->
+[url-twitter]: https://img.shields.io/static/v1?logo=twitter&label=Twitter&message=@onicolasjustin&color=007ec6
+
+<!-- My blog -->
+[url-myblog]: https://img.shields.io/static/v1?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIj4KPGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMTYiIGZpbGw9IiMwMzlCRTUiLz4KPGcgZmlsdGVyPSJ1cmwoI2ZpbHRlcjBfZCkiPgo8cGF0aCBkPSJNMTkuOTI5MyAxNi40ODhMMTkuOTA1MyAxMy42MzJDMTkuOTA1MyAxMC44IDE5LjgwOTMgOC45MiAxOS42MTczIDcuOTkyQzE5LjU4NTMgNy44OCAxOS41NjkzIDcuNzkyIDE5LjU2OTMgNy43MjhDMTkuNTY5MyA3LjQ1NiAxOS44NDEzIDcuMjI0IDIwLjM4NTMgNy4wMzJDMjAuOTI5MyA2Ljg0IDIxLjM2MTMgNi43NDQgMjEuNjgxMyA2Ljc0NEMyMi4wMDEzIDYuNzQ0IDIyLjE2MTMgNi44NCAyMi4xNjEzIDcuMDMyQzIyLjE2MTMgNy4wNDggMjIuMTQ1MyA3LjEzNiAyMi4xMTMzIDcuMjk2QzIxLjc0NTMgOS4yNjQgMjEuNTYxMyAxMi4zOTIgMjEuNTYxMyAxNi42OEMyMS41NjEzIDE5LjYwOCAyMS43MjkzIDIxLjcxMiAyMi4wNjUzIDIyLjk5MkMyMi4xMjkzIDIzLjIgMjIuMTYxMyAyMy4zMTIgMjIuMTYxMyAyMy4zMjhDMjIuMTYxMyAyMy42NjQgMjEuNzkzMyAyMy45MzYgMjEuMDU3MyAyNC4xNDRDMjAuMzIxMyAyNC4zNjggMTkuODAxMyAyNC40OCAxOS40OTczIDI0LjQ4QzE5LjAxNzMgMjQuNDggMTguNjg5MyAyNC4zNjggMTguNTEzMyAyNC4xNDRDMTguMTYxMyAyMy42OTYgMTcuNTg1MyAyMi40NCAxNi43ODUzIDIwLjM3NkMxNi4wMDEzIDE4LjI5NiAxNS4zMTMzIDE2LjM2IDE0LjcyMTMgMTQuNTY4TDEzLjgwOTMgMTEuODhDMTMuNzc3MyAxMS44IDEzLjczNzMgMTEuNzYgMTMuNjg5MyAxMS43NkMxMy42MjUzIDExLjc2IDEzLjU1MzMgMTEuODE2IDEzLjQ3MzMgMTEuOTI4QzEzLjM5MzMgMTMuNDE2IDEzLjM1MzMgMTQuOTA0IDEzLjM1MzMgMTYuMzkyQzEzLjM1MzMgMTcuODggMTMuMzYxMyAxOS4wMjQgMTMuMzc3MyAxOS44MjRDMTMuNDA5MyAyMC42MjQgMTMuNDQxMyAyMS4yMzIgMTMuNDczMyAyMS42NDhDMTMuNTA1MyAyMi4wNjQgMTMuNTM3MyAyMi40IDEzLjU2OTMgMjIuNjU2QzEzLjYwMTMgMjIuODk2IDEzLjYyNTMgMjMuMDcyIDEzLjY0MTMgMjMuMTg0QzEzLjY3MzMgMjMuMjk2IDEzLjY4OTMgMjMuMzc2IDEzLjY4OTMgMjMuNDI0QzEzLjY4OTMgMjMuNzI4IDEzLjQyNTMgMjMuOTYgMTIuODk3MyAyNC4xMkMxMi4zNjkzIDI0LjI5NiAxMS44ODkzIDI0LjM4NCAxMS40NTczIDI0LjM4NEMxMS4wNDEzIDI0LjM4NCAxMC44MzMzIDI0LjI4OCAxMC44MzMzIDI0LjA5NkMxMC44MzMzIDI0IDEwLjg1NzMgMjMuODggMTAuOTA1MyAyMy43MzZDMTAuOTUzMyAyMy41OTIgMTEuMDA5MyAyMy40MDggMTEuMDczMyAyMy4xODRDMTEuMjMzMyAyMi42MjQgMTEuMzQ1MyAyMS42MDggMTEuNDA5MyAyMC4xMzZDMTEuNDczMyAxOC42NDggMTEuNTA1MyAxNi45NiAxMS41MDUzIDE1LjA3MkMxMS41MDUzIDEzLjE2OCAxMS40ODEzIDExLjc4NCAxMS40MzMzIDEwLjkyQzExLjM1MzMgOS41MTIgMTEuMjA5MyA4LjU2OCAxMS4wMDEzIDguMDg4QzEwLjk1MzMgOC4wNCAxMC45MjkzIDcuOTc2IDEwLjkyOTMgNy44OTZDMTAuOTI5MyA3LjY0IDExLjM1MzMgNy4zOTIgMTIuMjAxMyA3LjE1MkMxMy4wNDkzIDYuOTEyIDEzLjcwNTMgNi43OTIgMTQuMTY5MyA2Ljc5MkMxNC42NDkzIDYuNzkyIDE0LjkyOTMgNi44IDE1LjAwOTMgNi44MTZDMTUuMjMzMyA2LjggMTUuMzY5MyA2LjkyOCAxNS40MTczIDcuMkMxNS44ODEzIDguODggMTYuNTI5MyAxMC44NTYgMTcuMzYxMyAxMy4xMjhDMTguMjA5MyAxNS40IDE4Ljk2MTMgMTcuMTM2IDE5LjYxNzMgMTguMzM2QzE5LjY5NzMgMTguNDE2IDE5Ljc2MTMgMTguNDU2IDE5LjgwOTMgMTguNDU2QzE5Ljg4OTMgMTguNDU2IDE5LjkyOTMgMTcuOCAxOS45MjkzIDE2LjQ4OFoiIGZpbGw9IndoaXRlIi8+CjwvZz4KPGRlZnM+CjxmaWx0ZXIgaWQ9ImZpbHRlcjBfZCIgeD0iMTAuODMzMyIgeT0iNi43NDM5OSIgd2lkdGg9IjExLjMyOCIgaGVpZ2h0PSIxOC43MzYiIGZpbHRlclVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY29sb3ItaW50ZXJwb2xhdGlvbi1maWx0ZXJzPSJzUkdCIj4KPGZlRmxvb2QgZmxvb2Qtb3BhY2l0eT0iMCIgcmVzdWx0PSJCYWNrZ3JvdW5kSW1hZ2VGaXgiLz4KPGZlQ29sb3JNYXRyaXggaW49IlNvdXJjZUFscGhhIiB0eXBlPSJtYXRyaXgiIHZhbHVlcz0iMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMTI3IDAiLz4KPGZlT2Zmc2V0IGR5PSIxIi8+CjxmZUNvbG9yTWF0cml4IHR5cGU9Im1hdHJpeCIgdmFsdWVzPSIwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwLjI1IDAiLz4KPGZlQmxlbmQgbW9kZT0ibm9ybWFsIiBpbjI9IkJhY2tncm91bmRJbWFnZUZpeCIgcmVzdWx0PSJlZmZlY3QxX2Ryb3BTaGFkb3ciLz4KPGZlQmxlbmQgbW9kZT0ibm9ybWFsIiBpbj0iU291cmNlR3JhcGhpYyIgaW4yPSJlZmZlY3QxX2Ryb3BTaGFkb3ciIHJlc3VsdD0ic2hhcGUiLz4KPC9maWx0ZXI+CjwvZGVmcz4KPC9zdmc+&label=Blog&message=nicolasjustin.dev&color=007ec6
