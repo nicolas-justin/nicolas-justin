@@ -2,7 +2,7 @@
   width="100%"
   height="100%"
   title="Nícolas Justin Banner"
-  src="https://github.com/nicolas-justin/nicolas-justin/blob/master/.github/banner.svg"
+  src="https://github.com/nicolas-justin/nicolas-justin/blob/main/.github/banner.svg"
 />
 
 [![Blog][badge-blog]][url-blog] &nbsp;
@@ -53,7 +53,7 @@ No meu **tempo livre** ~~se eu não estiver programando~~ 🤓, eu provavelmente
 
 <p align="right">
   <a
-    href="https://github.com/nicolas-justin/nicolas-justin/blob/master/README.md"
+    href="https://github.com/nicolas-justin/nicolas-justin/blob/main/README.md"
     title="Ver em Inglês"
   >
     Ver em Inglês 🇺🇸
