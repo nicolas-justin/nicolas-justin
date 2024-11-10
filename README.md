@@ -1,16 +1,15 @@
-# Hey there 👋
+## Hi there 👋
 
-## Welcome to my profile
+I'm Nicolas Justin, but you can just call me Nick 😉. I'm a software developer, and I'm deeply involved in the world of coding 👨‍💻.
 
-My name is Nicolas Justin (aka Nick) from Brazil, I'm a Software Developer with expertise in React.js, React Native, TypeScript, Node.js and other tools in the JavaScript ecosystem, currently working as a Front-end Developer at [@zaply-dev](https://github.com/zaply-dev).
+Right now, I'm specializing in cool technologies like React.js, React Native, TypeScript, Node.js, and a bunch of other tools that make up the JavaScript wonderland ✨.
 
-I'm also a lover of UX/UI and related areas, in my spare time, if I'm not working on a personal project, I'll probably be writing on my blog.
+My professional journey has led me to a profound appreciation for UI/UX and related matters. Currently, I hold the position of Software Engineer at [Sicredi](https://www.sicredi.com.br/), where I actively contribute to crafting digital solutions.
 
-I love making new friends, chatting and sharing knowledge or participating in projects, feel free to contact me on any of my social networks, I will respond as soon as possible.
+I'm not just about code though 😄. So, I'm always open to making new connections, having a good chat, and sharing what I know. Got a cool project in mind or just want to talk tech? Feel free to reach out to me through any of my social channels. I promise to respond as soon as possible ⚡.
 
----
-
-<p align="center">Built with ❤️ by Nícolas Justin</p>
+Looking forward to connecting,\
+Nick
 
 <!-- Profile views without badge -->
 ![](https://hit.yhype.me/github/profile?user_id=42806711)
